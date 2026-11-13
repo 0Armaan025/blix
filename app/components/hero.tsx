@@ -15,7 +15,7 @@ export default function Hero() {
       {/* now butttons here  */}
 
       <div className="buttons gap-x-4 p-4 flex flex-row justify-center items-center mt-4">
-        <button className="bg-zinc-400 text-black font-light px-6 py-3 rounded-md transition-all border-[1px] border-zinc-300 cursor-pointer hover:pointer-cursor hover:bg-zinc-800 hover:text-white text-xl">CONTINUE</button>
+        <button className="bg-zinc-400 text-black font-light px-6 py-3 rounded-md transition-all border-[1px] border-zinc-300 cursor-pointer hover:pointer-cursor hover:bg-zinc-800 hover:text-white text-xl">VIEW COMPONENTS</button>
 
         <button className="bg-transparent text-white border-[1px] border-white font-light px-9 py-3 rounded-md text-xl hover:bg-white transition-all hover:text-black cursor-pointer">DOCS</button>
       </div>
