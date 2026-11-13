@@ -17,7 +17,7 @@ export default function Navbar() {
 
   return (
     <>
-      <nav className="sticky top-0 bg-black   w-full px-6 py-4 flex flex-row justify-between items-center">
+      <nav className="sticky top-0 bg-white/10 z-50 backdrop-blur-md shadow-sm  rounded-4xl border-[0.1px] border-white m-4 mr-6 w-[99vw] px-6 py-4 flex flex-row justify-between items-center">
         <div className="title">
           <h3 className="text-3xl text-white font-semibold font-mono">Blix</h3>
         </div>
